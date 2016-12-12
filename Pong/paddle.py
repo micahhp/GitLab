@@ -4,5 +4,5 @@ def paddle_loc(oldLoc):
 
 
 if __name__ == '__main__':
-    print("Goodbye cruel world")
+    print("Goodbye cruel planet")
 
